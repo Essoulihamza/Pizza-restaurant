@@ -4,3 +4,6 @@ ESSOULI hamza
 ___________________________
 RAMMACH Sedik
 -"Contact Us" page zoning
+____________________________
+Mohamed Ossalhe
+-"Menu" page zoning
